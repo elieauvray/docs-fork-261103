@@ -32,6 +32,17 @@
     "server:test": "yarn COLLABORATION_SERVER run test"
   },
   "resolutions": {
+    "**/@eslint/config-array/minimatch": "11.0.4",
+    "**/@jest/reporters/glob": "14.0.3",
+    "**/@sentry/bundler-plugins/glob": "14.0.3",
+    "**/@typescript-eslint/typescript-estree/minimatch": "11.0.4",
+    "**/eslint-plugin-import-x/minimatch": "11.0.4",
+    "**/eslint/minimatch": "11.0.4",
+    "**/jest-config/glob": "14.0.3",
+    "**/jest-runtime/glob": "14.0.3",
+    "**/nodemon/minimatch": "11.0.4",
+    "**/test-exclude/glob": "14.0.3",
+    "**/test-exclude/minimatch": "11.0.4",
     "@tiptap/core": "3.32.0",
     "@tiptap/extensions": "3.32.0",
     "@tiptap/pm": "3.32.0",

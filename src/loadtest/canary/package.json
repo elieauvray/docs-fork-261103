@@ -10,6 +10,9 @@
     "lint": "eslint",
     "test": "vitest run"
   },
+  "resolutions": {
+    "minimatch": "11.0.4"
+  },
   "engines": {
     "node": ">=22.12"
   },
