@@ -20,6 +20,7 @@ and this project adheres to
 - ⚡️(yhub) read the abilities from the dedicated backend endpoint #2922
 - ⚡️(frontend) reuse the cached titles of the interlinks on export #2799
 - ♻️(backend) remove the unused scope of the document throttles #2951
+- 🔒️(dependencies) fix CVEs reported by the dependency scan
 
 ### Fixed
 
